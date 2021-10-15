@@ -1,3 +1,4 @@
+![image](https://user-images.githubusercontent.com/87421912/137493828-0e3d0226-5ccb-42cb-b54c-65852ba042b2.png)
 <h1 align="center">Hi 👋, I'm Vishal</h1>
 <h3 align="center">I'm a passionate Full Stack Web Developer from India.</h3>
 
