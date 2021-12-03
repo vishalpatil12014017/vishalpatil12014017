@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<h3>&nbsp;Visit my portfolio </h3>
+<h3 target="_blank">&nbsp;Visit my portfolio </h3>
 &nbsp;&nbsp;<a href="https://portfolio-vishal-patil.vercel.app/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Portfolio-Vishal-blue?style=flat-square&logo=google-chrome"></a><br/>
 
 - 🌱 I’m currently learning **React**
