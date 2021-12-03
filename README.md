@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@Vishal_Patil](https://medium.com/@Vishal_Patil)
 
-- 💬 Ask me about **HTML,CSS,Bootstrap,Javascript**
+- 💬 Ask me about **HTML,CSS,Bootstrap,Javascript,React,Redux,MUI,TypeScript**
 
 - 📫 How to reach me **patil120140@gmail.com**
 
