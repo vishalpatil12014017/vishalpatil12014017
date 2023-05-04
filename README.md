@@ -12,11 +12,11 @@
 <h3 target="_blank">&nbsp;Visit my portfolio </h3>
 &nbsp;&nbsp;<a href="https://portfolio-vishal-patil.vercel.app/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Portfolio-Vishal-blue?style=flat-square&logo=google-chrome"></a><br/>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently working at **Hexahealth**
 
 - 📝 I regularly write articles on [https://medium.com/@Vishal_Patil](https://medium.com/@Vishal_Patil)
 
-- 💬 Ask me about **HTML,CSS,Bootstrap,Javascript,React,Redux,MUI,TypeScript**
+- 💬 Ask me about **HTML,CSS,Bootstrap,Node,Javascript,React,Redux,MUI,TypeScript,Mysql,Sql,MongoDb**
 
 - 📫 How to reach me **patil120140@gmail.com**
 
